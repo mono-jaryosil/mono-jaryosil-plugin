@@ -8,7 +8,7 @@
     {
       "name": "mono-jaryosil-rules",
       "source": "./plugins/mono-jaryosil-rules",
-      "description": "모노 자료실 도구를 쓴 요청마다 작업 기록을 사내 모노 자료실 서버에 남기는 회사 방침"
+      "description": "모노 자료실을 쓰는 Claude에 회사 규칙을 더합니다."
     }
   ]
 }
