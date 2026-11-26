@@ -1,7 +1,7 @@
 {
   "name": "mono-jaryosil-rules",
   "displayName": "모노 자료실 사용 규칙",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "모노 자료실을 쓰는 Claude에 회사 규칙을 더합니다.",
   "author": {
     "name": "모노커뮤니케이션즈"
